@@ -241,6 +241,7 @@ h1{
 }
 .feature-item{
     width: 300px;
+    margin-bottom: 80px;
 }
 
 .index-colomns{
@@ -266,6 +267,30 @@ h1{
     width: 300px;
     min-height: 315px;
 }
+.main-footer{
+    padding: 60px 0;
+    margin-top: 65px;
+    min-height: 180px;
+}
+.main-footer .container{
+    display: flex;
+}
+.footer-contacts{
+    width: 320px;
+    margin: 0;
+    min-height: 100px;
+    margin-right: 80px;
+}
+.footer-social{
+    width: 145px;
+    min-height: 100px;
+}
+.footer-dev{
+    width: 150px;
+    margin: 0;
+    margin-left: auto;
+}
+
     /*Стили для меню*/
 nav .main-navigation{
     font-size: 16px;
